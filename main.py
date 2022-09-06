@@ -29,3 +29,4 @@ if __name__ == '__main__':
 
 
 # criada estrura base do projeto.(falta partes dos setings)
+# ja funcionamdno a tela do game
